@@ -44,6 +44,7 @@ Create below routes
   
   `name = "backend"`
   `compatibility_date = "2023-12-01"`
+  
   `[vars]`
-  `DATABASE_URL = "prisma://accelerate.prisma-data.net/?api_key=YOUR_API_KEY"
+  `DATABASE_URL = "prisma://accelerate.prisma-data.net/?api_key=YOUR_API_KEY"`
 💡
