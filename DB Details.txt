@@ -1,0 +1,6 @@
+1. Connection URL from neon.db or aieven.io
+    postgres://avnadmin:AVNS_2tYN5OrHENU8mnxTPDC@pg-25ea93ba-rutujaharne23-my-blog.a.aivencloud.com:14721/defaultdb?sslmode=require
+2. Connection Pool URL from Prisma accelerate
+    prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiYzVlZDQxMDgtNzJhZC00NDlkLWIxYmItMmJlMWY0NGY1NjAxIiwidGVuYW50X2lkIjoiMDE5MDBlY2Y3OWIzYWFhNGUyOTQzYzk3NDM5ODQ5ODQ5ZDRiOGUyOTQxNmNkODgxNzliNzdkYTBlYTQ5OGU2NiIsImludGVybmFsX3NlY3JldCI6ImEzYWQxODU3LTgxZWItNGM5Mi1hNTNiLTg4YjgxNDVlNjUwYyJ9.-4zu-7gJo4awf_2yR5MNgogp6sqnBJJ3eq04f5LVn2c
+
+
