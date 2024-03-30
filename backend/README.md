@@ -9,10 +9,13 @@
 ----------------------------------------------------------------------------------
 ## Initialize the backend
 * Create a new folder called "My-Blog"
+  
 `mkdir medium`
+
 `cd medium`
 
-* Initialize a hono based cloudflare worker app 
+* Initialize a hono based cloudflare worker app
+  
 `npm create hono@latest`
 
 * Target directory › backend
@@ -31,9 +34,13 @@ Create below routes
 ----------------------------------------------------------------------------------
 ## Initialize DB (prisma)
 1. Get your connection url from neon.db or aieven.tech
+   
   `postgres://avnadmin:password@host/db`
+  
 2. Get connection pool URL from Prisma accelerate (Use link https://www.prisma.io/data-platform/accelerate)
+   
   `prisma://accelerate.prisma-data.net/?api_key=YOUR_API_KEY`
+  
 3. Initialize prisma in your project (Make sure you are in the backend folder)
    
   `npm i prisma`
