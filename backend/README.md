@@ -35,7 +35,9 @@ Create below routes
 2. Get connection pool URL from Prisma accelerate (Use link https://www.prisma.io/data-platform/accelerate)
   `prisma://accelerate.prisma-data.net/?api_key=YOUR_API_KEY`
 3. Initialize prisma in your project (Make sure you are in the backend folder)
+   
   `npm i prisma`
+  
   `npx prisma init`
 
   Replace DATABASE_URL in .env
