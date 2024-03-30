@@ -39,12 +39,16 @@ Create below routes
   `npx prisma init`
 
   Replace DATABASE_URL in .env
+  
   `DATABASE_URL="postgres://avnadmin:password@host/db"`
+  
   Add DATABASE_URL as the connection pool url in wrangler.toml
   
   `name = "backend"`
+  
   `compatibility_date = "2023-12-01"`
   
   `[vars]`
+  
   `DATABASE_URL = "prisma://accelerate.prisma-data.net/?api_key=YOUR_API_KEY"`
 💡
