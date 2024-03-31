@@ -2,5 +2,5 @@ name = "backend"
 compatibility_date = "2023-12-01"
 
 [vars]
-DATABASE_URL = "prisma://accelerate.prisma-data.net/?api_key=Your_API_Key"
-JWT_SECRET = "Your_Secret_Key"
+DATABASE_URL = ""
+JWT_SECRET = ""
